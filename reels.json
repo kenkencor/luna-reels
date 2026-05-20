@@ -1,0 +1,15 @@
+{
+  "base_url": "https://raw.githubusercontent.com/kenkencor/luna-reels/main/reels/",
+  "items": [
+    {"id": "01", "title": "彼の本音が見える瞬間", "file": "01.mp4"},
+    {"id": "02", "title": "連絡が減ったとき", "file": "02.mp4"},
+    {"id": "03", "title": "復縁が動く星まわり", "file": "03.mp4"},
+    {"id": "04", "title": "執着を手放すと", "file": "04.mp4"},
+    {"id": "05", "title": "冷められる人の癖", "file": "05.mp4"},
+    {"id": "06", "title": "追われる恋の作り方", "file": "06.mp4"},
+    {"id": "07", "title": "好きな人との距離感", "file": "07.mp4"},
+    {"id": "08", "title": "片思いが叶うサイン", "file": "08.mp4"},
+    {"id": "09", "title": "運命の人の見抜き方", "file": "09.mp4"},
+    {"id": "10", "title": "次に恋が動く時期", "file": "10.mp4"}
+  ]
+}
